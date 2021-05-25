@@ -30,3 +30,10 @@ Launch tests with:
 ## References
 1. Y. Nishiyama, “Machin’s formula and Pi,” Journal of Osaka University of
    Economics 62(1), 1–8 (2011).
+2. J. M. Borwein, P. B. Borwein, and D. H. Bailey, “Ramanujan, Modular
+   Equations, and Approximations to Pi or How to Compute One Billion Digits of
+   Pi,” The American Mathematical Monthly 96(3), 201–219 (1989).
+   https://doi.org/10.1080/00029890.1989.11972169
+3. W. H. Press, H. William, S. A. Teukolsky, W. T. Vetterling, A. Saul, and B.
+   P. Flannery, Numerical Recipes 3rd Edition: The Art of Scientific Computing
+   (Cambridge university press, 2007). **Page 1185**
